@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Jisong Xiao"
 description              : &description "PhD candidate at BIT, researching large model-based agents in MBSE."
 url                      : https://u3693025048-ops.github.io
-baseurl                  : ""
+baseurl                  : "/Jisong-Xiao.github.io"
 repository               : "u3693025048-ops/Jisong-Xiao.github.io"
 
 # Site Author
